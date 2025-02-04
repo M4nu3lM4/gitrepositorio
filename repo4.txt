@@ -1,2 +1,2 @@
 He creado un repositorio en  remoto
-Estoy modificando en local
+estoy modificando en remoto
